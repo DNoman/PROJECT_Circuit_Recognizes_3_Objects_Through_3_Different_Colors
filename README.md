@@ -1,0 +1,2 @@
+# The_Circuit_Recognizes_3_Different_Colors
+NO USING MICROCONTROLLER
